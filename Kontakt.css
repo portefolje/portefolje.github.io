@@ -291,12 +291,12 @@
 .u-section-2 .u-text-1 {
   font-size: 3.75rem;
   font-weight: 700;
-  margin: 30px 2px 0;
+  margin: 32px 0 0 4px;
 }
 
 .u-section-2 .u-text-2 {
   font-size: 3rem;
-  margin: 77px 2px 0 439px;
+  margin: 75px 2px 0 439px;
 }
 
 .u-section-2 .u-text-3 {
@@ -335,7 +335,6 @@
 
   .u-section-2 .u-text-1 {
     margin-left: 0;
-    margin-right: 0;
   }
 
   .u-section-2 .u-text-2 {
